@@ -18,7 +18,7 @@ A simple digital clock built with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-Coming soon.
+[View the live demo](https://brunotonaco-7.github.io/digital-clock/)
 
 ## Author
 
